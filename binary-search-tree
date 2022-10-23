@@ -1,0 +1,12 @@
+*[Patika.Dev](https://app.patika.dev/)
+**[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+5 x olsun.İlk başladığımız sayıdır.
+y=7 ve z=3 olsun.
+7'nin y=9 olsun. z=6 olur.
+9'un y'si olmaz ondan büyük sayı yoktur.z=8 olur.
+Ağacın sağ tarafı bitti.Soluna gaçelim.
+3'ün y=4 ve z=1 olsun.
+1'in de y=2 olur.z olmaz çünkü en küçüktür.
+Böylece ağacımızın sol tarafı da tamamlanmış olur.
+
+
